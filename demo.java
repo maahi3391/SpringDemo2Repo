@@ -1,8 +1,5 @@
-Hiksdjfjjl
+public class demo{
 
-sda
-asd
-ada
-vfa
-afefqq
-wda
+
+    
+}
